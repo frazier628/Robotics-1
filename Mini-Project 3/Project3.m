@@ -283,7 +283,7 @@ for i=1:N
 end
 
 % choose the pose to visualize
-ksol=2;
+ksol=7;
 
 for i=1:N
     % show robot pose (ever 5 frames)
