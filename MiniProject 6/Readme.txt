@@ -1,1 +1,2 @@
 
+This code depends on a large series of files. MP6.m is the main driving code, however it is not a fire and forget function but simply organizes everything. Certain manual changes, mainly slipping switchs in simulink files, are required. The noticeable required change is flipping that switch for simIRB210_grav's simulink model, robotsimulation_grav, because it needs the free response for part 2c but the pid for part 3d. 
